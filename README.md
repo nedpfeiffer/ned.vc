@@ -10,7 +10,7 @@ Helpful resources I consulted:
 
 [Tor Project - Debian repository](https://support.torproject.org/apt/)
 
-[cathugger - mkp224o](https://github.com/cathugger/mkp224o)
+[cathugger/mkp224o - vanity address generator for tor onion v3 (ed25519) hidden services](https://github.com/cathugger/mkp224o)
 
 [Xitheon - How to setup a Tor hidden service with NGINX on Ubuntu & Debian](https://xitheon.com/guides/how-to-setup-a-tor-hidden-service-on-ubuntu/)
 
