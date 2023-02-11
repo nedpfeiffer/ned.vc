@@ -1,8 +1,8 @@
 # ned.vc
 
-This is the repository for my personal website.
+## This is the repository for my personal website.
 
-Helpful resources I consulted while creating it:
+Helpful resources I consulted:
 
 [Fedfree - Nginx web server on Debian with LetsEncrypt HTTPS and Certbot](https://fedfree.org/docs/http/debian-nginx.html)
 
@@ -10,4 +10,7 @@ Helpful resources I consulted while creating it:
 
 [Tor Project - Debian repository](https://support.torproject.org/apt/)
 
+[cathugger - mkp224o](https://github.com/cathugger/mkp224o)
+
 [Xitheon - How to setup a Tor hidden service with NGINX on Ubuntu & Debian](https://xitheon.com/guides/how-to-setup-a-tor-hidden-service-on-ubuntu/)
+
