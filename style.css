@@ -10,3 +10,8 @@ body {
 a {
   color: #00aa00;
 }
+
+img {
+    height: 42px;
+    /*filter: opacity(0.5) drop-shadow(0 0 0 blue);*/
+}
