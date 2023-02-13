@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+This canary indicates that I am in control of the following:
+
+The domain ned.vc
+The onion site nedvcy7q5qerhcpjdmai52cant3wv3ogeecuq2chij5kjwk645hugbid.onion
+The PGP key with fingerprint BE7A B6C1 4B52 3662 9205  4406 29D5 38C0 BF6A 3F8B
+
+I will update this canary by March 12, 2023.
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEvnq2wUtSNmKSBUQGKdU4wL9qP4sFAmPppe0ACgkQKdU4wL9q
+P4uLmw//aXVDtzANajBw9JVfQ/ZIs9/jY7bItUM74KDxu7y9hvl7yw4/ShAjFU0C
+X2hvijIwmoczyCVZ69v8dNw0G2vRncsIGdnbGBp8+7l+PL7UYmuZDqHc85yFBYBf
+QudnIXNEufIQD3ASvRue2c/xws3zaJzuaZcWq6VxB6QbE8Rkvi/vDTKD294xZgRU
+XR9tDOxUISPbp1KGil3E7MfYa1GRP6WbFaAC8115YiEaNKGK5bQetExmMA+cA8Og
+obcy0Lu3cPWY68LOHFKJLLLrQEVSI8+w6lZk5VTh7Lywevq63TIuKh0IuTZ5Zztz
+NMMySmmaf7qeg6U1/9TadB7nUZFMsPVZQV9zeVBCeHd7OsLTS4/mxL5CnmxnwH8L
+lZ0w7DzbPMWxQoMu2ab8oWO7UzIgOcCbba9lV285ga0RswR7o33V9I/CK22CD1D0
+6zNTI8SZ6OjQrdMmsyUIIBDDmVVo/Y5A0wwfQVhWET8KOcnPaF/M96wZMq2Ymp1d
+X8RZ7IWSCqmkPXXf/3+i/B52KzvJc1OEQHpxdsw7kSJtCQIiDpKyEqpgvACGtnKP
+eesFxChp6tnjBgDVS3h9NfaKOd3qXj+S9yYXQbgaMXpWdAAa3CXIMiSmW+zel9bx
+n1nUMFCxMXRatfJ/oqL+UzAPVmb02lwnHybN2FQDYhbi+cZAcD4=
+=KtHT
+-----END PGP SIGNATURE-----
