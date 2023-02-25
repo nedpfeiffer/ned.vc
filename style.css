@@ -1,12 +1,6 @@
-/*
-.header {
-    color: black;
+.header p{
+    text-align: right;
 }
-
-.header a:link{
-    color: black
-}
-*/
 
 body {
   background-color: #a3d0b5;
