@@ -10,7 +10,10 @@ body {
   margin-top: 40px;
   font-family: monospace;
   max-width: 500px;
-  margin: auto
+  margin: auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 img {
@@ -21,10 +24,20 @@ a {
     color: #00aa00;
 }
 
-.footer {
-    position: absolute;
-    bottom: 40px;
+code{
+ 
+    background: none;
+    white-space: pre;
+    padding: 0;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+}
+
+footer {
     font-size: small;
     text-align: center;
-
+    width: 100%;
+    margin-top: auto;
+    padding: 10px;
 }
