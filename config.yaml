@@ -1,0 +1,22 @@
+---
+baseURL: /
+title: ned.vc
+
+defaultContentLanguage: en-us
+languages:
+  en-us:
+    languageName: English
+    weight: 1
+    contentDir: content/english
+    menu:
+      main:
+      - name: Home
+        url: /
+  es:
+    languageName: Español
+    weight: 2
+    contentDir: content/spanish
+    menu:
+      main:
+      - name: Inicio
+        url: /
