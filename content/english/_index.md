@@ -13,6 +13,6 @@ I'm an undergraduate studying psychology and IT, and I'm passionate about cybers
 
 * [Github](https://github.com/nedpfeiffer/)
 * [LinkedIn](https://www.linkedin.com/in/nedpfeiffer/)
-* [Email](mailto:)
+* [Email](mailto:116780681+nedpfeiffer@users.noreply.github.com)
 
 <!-- [![Github](/images/github.png)](https://github.com/nedpfeiffer/) [![LinkedIn](/images/linkedin.png)](https://www.linkedin.com/in/nedpfeiffer/)
