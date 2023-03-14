@@ -7,7 +7,7 @@ I'm an undergraduate studying psychology and IT, and I'm passionate about cybers
 
 ## Recent blog posts:
 
-* [30 Commits in 30 Days](/posts/2022_03_05_30_commits_in_30_days/)
+* [30 Commits in 30 Days](/posts/2023_03_05_30_commits_in_30_days/)
 
 ## Socials:
 
@@ -15,4 +15,4 @@ I'm an undergraduate studying psychology and IT, and I'm passionate about cybers
 * [LinkedIn](https://www.linkedin.com/in/nedpfeiffer/)
 * [Email](mailto:116780681+nedpfeiffer@users.noreply.github.com)
 
-<!-- [![Github](/images/github.png)](https://github.com/nedpfeiffer/) [![LinkedIn](/images/linkedin.png)](https://www.linkedin.com/in/nedpfeiffer/)
+<!-- [![Github](/images/github.png)](https://github.com/nedpfeiffer/) [![LinkedIn](/images/linkedin.png)](https://www.linkedin.com/in/nedpfeiffer/)-->
