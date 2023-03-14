@@ -1,13 +1,44 @@
-/*#ned.vc {
-    position: absolute;
-    left: 0;
-}*/
+:root {
+    --bg:	black;
+	--fg:	#a3d0b5;
+	--hl:	#00aa00;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--fg);
+    font-size: 1em;
+    width: 85%;
+    max-width: 52em;
+    margin: 1em auto;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    font-family: monospace;
+  }
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0.6em 0 0.2em 0;
+}
+
+a {
+    color: var(--fg);
+}
+
+a:hover {
+    color: var(--hl);
+}
 
 nav {
     text-align: center;
-    outline: 1px solid #a3d0b5;
+    /*outline: 1px solid #a3d0b5;*/
     padding: 5px;
-    margin-top: 5px;
+    /*margin-top: 5px;*/
 }
 
 nav ul {
@@ -21,43 +52,27 @@ nav li {
     padding: 20px;
 }
 
-body {
-  background-color: black;
-  font-size: large;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 40px;
-  font-family: monospace;
-  max-width: 500px;
-  margin: auto;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  color: #a3d0b5;
-}
-
-img {
-    height: 32px;
-}
-
-a {
-    color: #a3d0b5;
-}
-
 code{
- 
-    background: none;
-    white-space: pre;
-    padding: 0;
-    outline: 1px solid white;
-    color: white;
+    color: var(--hl);
+    outline: 1px solid var(--hl);
+    
     border-radius: 2px;
+    overflow: hidden;
 }
 
 footer {
-    font-size: small;
-    text-align: center;
+    font-size: 0.8em;
     width: 100%;
     margin-top: auto;
     padding: 10px;
+    text-align: center;
+    white-space: pre-line;
+    padding: 5px;
+}
+
+@media only screen and (max-width: 768px) {
+	body {
+		width: 90%;
+		font-size: 1.1em;
+	}
 }
